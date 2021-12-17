@@ -1,5 +1,6 @@
 
-"profile": {
-    "name": "typicode"
-  }
-
+{ 
+    "userId": 1,
+    "id": 1,
+    "title": "тест строка" 
+}
